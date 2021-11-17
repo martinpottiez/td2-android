@@ -13,13 +13,25 @@
         android:layout_width="wrap_content"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"/>
+
     <Button
         android:id="@+id/button2"
-        android:text="BTN2"
-        android:layout_height="match_parent"
-        app:layout_constraintTop_toBottomOf="@id/button1"
         android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="BTN2"
+        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@id/button1"
-        app:layout_constraintLeft_toLeftOf="parent" />
+        app:layout_constraintTop_toBottomOf="@id/button1"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+         />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BTN3"
+        app:layout_constraintLeft_toRightOf="@id/button1"
+        app:layout_constraintTop_toBottomOf="@id/button1"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
