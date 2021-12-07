@@ -6,7 +6,9 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18385416666666668" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.16770833333333332" />
         <entry key="app/src/main/res/layout/constraints.xml" value="0.22279786926918088" />
-        <entry key="app/src/main/res/layout/relative.xml" value="0.6430406394940603" />
+        <entry key="app/src/main/res/layout/meteo.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/relative.xml" value="0.16442813186807112" />
+        <entry key="app/src/main/res/layout/repas.xml" value="0.16770833333333332" />
       </map>
     </option>
   </component>

@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">TD2</string>
     <string name="message">Salut tout le monde</string>
+    <string name="fruit">Fruits</string>
+    <string name="cheese">Fromage</string>
+    <string name="main_dish">Plat principal</string>
+    <string name="appetizer">Entrée</string>
+    <string name="diner">Soir</string>
+    <string name="lunch">Midi</string>
+    <string name="save">Sauvegarder</string>
+    <string name="cancel">Annuler</string>
+    <string name="tempTextView">°C</string>
+    <string name="windSpeedTextView">Km/h</string>
 </resources>

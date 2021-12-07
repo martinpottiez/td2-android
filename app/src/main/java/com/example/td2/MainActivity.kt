@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
         //setContentView(R.layout.calendar)
         //setContentView(R.layout.password)
         //setContentView(R.layout.relative)
-        setContentView(R.layout.constraints)
+        //setContentView(R.layout.constraints)
+        //setContentView(R.layout.repas)
+        setContentView(R.layout.meteo)
     }
 }
